@@ -1,0 +1,11 @@
+.diagram_bar {
+  border-radius: 20px;
+  background-color: burlywood;
+  color: white;
+  padding: 5px 30px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: 'center';
+
+}

@@ -1,0 +1,10 @@
+.cart_item_date {
+  width: 60px;
+  height: 60px;
+  background-color: cadetblue;
+  padding: 10px;
+  border-radius:10px;
+  color:white;
+  font-weight: 600;
+  border:1px solid white;
+  }

@@ -1,0 +1,9 @@
+.costs {
+  background-color:rgb(117, 176, 213);
+  border-radius:20px;
+  padding:20px
+}
+
+.costs_empty{
+  color:white;
+}

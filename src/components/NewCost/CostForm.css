@@ -1,0 +1,44 @@
+.cost_form {
+  background-color: rgb(117, 176, 213);
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.cost_form__control {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  gap: 10px;
+  padding: 10px;
+}
+
+.cost_form__input {
+  width: 300px;
+  height: 30px;
+}
+
+.cost_form_actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.cost_lable {
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+}
+
+.cost_button {
+  background-color: cadetblue;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+
+}
