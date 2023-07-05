@@ -7,11 +7,11 @@ const CostsList = ({ filteredCost }) => {
 	}
 
 	return (
-		<ul className='cost-list'>
+		<div>
 			{filteredCost.map(cost => (
 				<CostItem date={cost.date} key={cost.id} amount={cost.amount} name={cost.name} />
 			))}
-		</ul>
+		</div>
 	)
 }
 
